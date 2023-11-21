@@ -1,15 +1,9 @@
-# Ludus Free Premium E-commerce Template
+# E-commerce + Blog Template
 
-*I want to thank all of you who give stars and fork the repo. I love you all and I have no words in my heart.*
-
-I've developed another open-source eCommerce template that may work for you. [Demo link](https://github.com/ahmadHuss/groover-free-premium-ecommerce-template)
-
-## Real use case:
-This template has also been used in a famous Codecanyon script named DOKANS [Demo link](https://bit.ly/3rTQIqp) which has ~300+ sales.
 
 [Live Preview](https://d2r00w08fz6ft0.cloudfront.net/ludus-demo/index.html)
 
-![snap1](/ludus/doc-img/01_preview.png)
+
 
 **40+ Pages still not pressed the star & follow button.**
 
@@ -29,7 +23,7 @@ This template has also been used in a famous Codecanyon script named DOKANS [Dem
 
 ## Getting Started
 
-Ludus is complete multipurpose polish e-commerce template built with best practices. It will be a perfect solution for your current or future shop, customizable into any store contains responsiveness & great UI. Well tested on compatible browsers.
+Ludus is complete multipurpose polished e-commerce and blog template built with best practices. It will be a perfect solution for your current or future shop, customizable into any store contains responsiveness & great UI. Well tested on compatible browsers.
 
 The template contains **40+ HTML files**, **3 Homepages**, **3 Header Styles**, **12 Dashboard Pages**,
 **3 Product Pages**, **7 Shop Pages**,**5 Blog Pages**, **Box mode** and generated **10 Color variations** but could
@@ -480,11 +474,6 @@ You can see all default pages are **wide**. Change page from **wide** into a **b
 - [Final Countdown](https://hilios.github.io/jQuery.countdown/)
 
 
-
-
-## Changelog Updates History
-
-Following you'll find a list of all Ludus theme Template releases with a log of features added and bug fixes next to each one.
 
 
 
